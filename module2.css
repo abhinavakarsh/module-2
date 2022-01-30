@@ -63,7 +63,7 @@ html{
         flex-basis: 100%;
     }
 }
-@media(width<768px){
+@media(max-width: 767px){
     .card{
         flex-basis: 100%;
     }
