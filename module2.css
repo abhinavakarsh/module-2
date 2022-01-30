@@ -38,12 +38,14 @@ html{
     padding: 0.5rem 0rem;
     font-size: 2rem;
     color: black;
+    font-weight: 500;
 }
 .title1{
     background-color: violet;
 }
 .title2{
     background-color: tomato;
+    color: white;
 }
 .title3{
     background-color: rgb(202, 212, 52);
