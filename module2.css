@@ -55,7 +55,7 @@ html{
     padding: 1rem;
 }
 
-@media(width<992px){
+@media(min-width: 768px) and (max-width: 991px){
     .card{
         flex-basis: 40%;
     }
